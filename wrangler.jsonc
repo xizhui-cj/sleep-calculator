@@ -1,0 +1,9 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "sleep-calculator",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public"
+  }
+}
